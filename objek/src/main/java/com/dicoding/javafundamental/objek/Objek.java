@@ -11,6 +11,6 @@ package com.dicoding.javafundamental.objek;
 public class Objek {
 
     public static void main(String[] args) {
-        System.out.println("Nama Hewan: Elang");
+        System.out.println("Nama hewan : Elang\n" + "Berat hewan : 5 kg\n" + "Jumlah kaki: 2\n" + "Nama hewan : Kucing\n" + "Berat hewan : 2 kg\n" + "Jumlah kaki: 4");
     }
 }
